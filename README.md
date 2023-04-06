@@ -1,4 +1,5 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+This is a landing page for Art Gallery. This project is developed according to the designer's layout and built using HTML, SCSS, and JavaScript, with different interactive elements like buttons, forms, menus, and is designed to be responsive and accessible on a wide range of devices.
+
+The landing page is deployed on GitHub Pages and can be viewed here: [DEMO LINK](https://andrii-kurash.github.io/art-museum-landing-page/)
+
+Have a great day and mood! :)
